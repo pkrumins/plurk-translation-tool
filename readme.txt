@@ -23,7 +23,8 @@ Step 1. Download and install FireFox browser. It can be downloaded at the
 following address: http://www.mozilla.com/firefox/
 
 Step 2. Install GreaseMonkey FireFox addon. GreaseMonkey allows you to modify
-any page (like this one adds translation feature to Plurk's page).
+any page (like this one adds translation feature to Plurk's page). GreaseMonkey
+can be downloaded here: https://addons.mozilla.org/en-US/firefox/addon/748
 
 Step 3. Install this script. The latest version is always at GreaseMonkey
 script repostiory:
